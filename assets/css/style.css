@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+.principal{
+    background-color: beige;
+    width: 50%;
+    border-radius: 50%;
+}
+p{
+    color: red;
+    border-style: solid;
+    text-align: center;
+    width: 70%;
+}
+.txt_azul{
+    color: blue;
+    margin: 0px;
+}
+#tit_2{
+    color: aqua;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
